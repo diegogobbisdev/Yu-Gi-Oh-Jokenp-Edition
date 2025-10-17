@@ -1,0 +1,30 @@
+# Node/npm
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+Thumbs.db
+ehthumbs.db
+.DS_Store
+
+# IDEs
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build artifacts
+dist/
+build/
+
+# Logs
+logs/
+*.log
+
+# Misc
+*.tmp
+*.bak
+.env
