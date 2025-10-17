@@ -11,7 +11,7 @@
 
 ## 📖 Sobre
 
-Projeto desenvolvido durante o Bootcamp [Potência Tech iFood - Desenvolvimento de Jogos](https://web.dio.me/track/potencia-tech-ifood-desenvolvimento-de-jogos) com o professor [Felipe Aguiar](https://github.com/felipeAguiarCode). O objetivo desse projeto é desenvolver um versão do tracional jogo "Pedra, Papel e Tesoura" com inspiração na temática de Yu-Gi-Oh, utilizando apenas HTML, CSS e Javascript.
+Projeto desenvolvido durante o Bootcamp Santander com o professor [Felipe Aguiar](https://github.com/felipeAguiarCode). O objetivo desse projeto é desenvolver um versão do tracional jogo "Pedra, Papel e Tesoura" com inspiração na temática de Yu-Gi-Oh, utilizando apenas HTML, CSS e Javascript.
 
 O jogo funciona de maneira simples, o jogador seleciona a carta que deseja jogar e tenta a sorte. No jogo, há três tipos distintos de cartas:
 
